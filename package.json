@@ -1,0 +1,23 @@
+{
+  "name": "ranem-project",
+  "version": "1.0.0",
+  "description": "D3.js visualization for CS498 Data Visualization course final project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server --config=coverage-server-cdk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpoutSoftware/ranem-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpoutSoftware/ranem-project/issues"
+  },
+  "homepage": "https://github.com/SpoutSoftware/ranem-project#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}

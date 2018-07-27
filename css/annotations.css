@@ -1,0 +1,9 @@
+line.annotations {
+  stroke-width: 1px;
+  stroke: DarkTurquoise;
+}
+text.annotations {
+  font-family: arial, helvetica, sans-serif;
+  fill: DarkTurquoise;
+  font-size: 11pt;
+}
