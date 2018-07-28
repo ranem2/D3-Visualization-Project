@@ -2,7 +2,6 @@
 
 ## Worldwide Power Plants Energy Visualization
 This visualization follows the interactive slideshow visualization structure. The charts are written using D3.js embedded in the slides.
-
 #Scenes
 There are 3 main scenes the opening , mid scene and ending scene. Each scene consists of a single chart and description. There is Page Navigation dots on the right hand side that will allow user to scroll between Scene/ Slides.  
 #Annotations
