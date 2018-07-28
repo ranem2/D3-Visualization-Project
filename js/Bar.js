@@ -6,7 +6,8 @@ var format = d3.format("s");
 
 
 var x = d3.scale.ordinal()
-    .range([0, width]);
+    //.rangeBand([0, width], 0.1);
+    .rangeRoundBands([0, width],0.1);
 
 var y = d3.scale.linear()
     .range([height, 0]);

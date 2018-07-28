@@ -1,6 +1,4 @@
-# [Project Page](https://ranem2.github.io/D3-Visualization-Project/final.html)
-
-# Worldwide Power Plants Energy Visualization
+# [Worldwide Power Plants Energy Visualization](https://ranem2.github.io/D3-Visualization-Project/final.html)
 
 # About the Visualization
 This visualization follows the interactive slideshow visualization structure. The charts are written using D3.js embedded in the slides.
