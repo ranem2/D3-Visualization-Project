@@ -39,12 +39,12 @@ d3.csv('./data/Scatterplot.csv', function (data) {
         .attr("class", "annotations")
         .attr("x", xAnotate)
         .attr("y", yAnotate + 5)
-        .text('Most Countries have capacity between 400-800 Mw');
+        .text('Most Countries have capacity between 1k-20k Mw');
     svg.append("text")
         .attr("class", "annotations")
         .attr("x", xAnotate)
         .attr("y", yAnotate + 20)
-        .text("and est generation between 1k-5k Gwh");
+        .text("and est generation between 1k-100k Gwh");
     var aLine = svg.append("line")
         .attr("class", "annotations")
         .attr("x1", xAnotate + 130)
